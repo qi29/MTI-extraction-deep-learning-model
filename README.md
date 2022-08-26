@@ -1,3 +1,3 @@
 # MTI-extraction-deep-learning-model
 
-would update soon, 08/26/2022
+will update soon, 08/26/2022
